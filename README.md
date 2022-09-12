@@ -1,6 +1,10 @@
 # Awesome Cybernetics
 Set of curated resources for exploring the field of Cybernetics
 
+
+## Definitions
+_Cybernetics_ is the study of communication theory, control theory, and statistical mechanics as it relates to machines, animals, living tissue, and where they interplay.
+
 ## Contents
 
 - [Books](#books)
